@@ -38,6 +38,7 @@ missingno==0.5.2
 murmurhash==1.0.9
 nest-asyncio==1.5.7
 nltk==3.8.1
+nbconvert==6.3.0
 numpy==1.25.2
 packaging==23.1
 pandas==2.0.3
